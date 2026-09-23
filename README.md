@@ -10,7 +10,7 @@
 
 ## 👋 À propos
 
-Étudiant en **BTS SIO** [option SLAM / SISR], passionné par le développement web et les projets concrets.  
+Étudiant en **BTS SIO** [option SLAM], passionné par le développement web et les projets concrets.  
 ---
 
 ## 🛠️ Technologies
@@ -38,7 +38,7 @@
 <summary><b>🚀 Mes projets</b></summary>
 <br>
 
--- **[enDTstat](https://endtstat.fr.benjaminbastide.fr)** : site de stats de notre équipe CS2 enDT, saison par saison et joueur par joueur
+- **[enDTstat](https://endtstat.benjaminbastide.fr/)** : site de stats de notre équipe CS2 enDT, saison par saison et joueur par joueur
 - **Portfolio** : mon site perso, [benjaminbastide.fr](https://benjaminbastide.fr)
 
 </details>
