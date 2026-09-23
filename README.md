@@ -9,7 +9,7 @@ J'aime construire des choses qui servent vraiment, du site web au plugin Minecra
 
 ## 🛠️ Technologies
 
-**Outils** : Git · GitHub · VS Code · MySQL · [Figma]  
+**Outils** : Git · GitHub · VS Code · MySQL · Figma 
 **Environnements** : Windows
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
