@@ -4,18 +4,14 @@
 J'aime construire des choses qui servent vraiment, du site web au plugin Minecraft.
 
 🌐 Mon site : [benjaminbastide.fr](https://benjaminbastide.fr)  
-📫 Me contacter : [bastide.benjamin31@gmail.com] 
-💼 LinkedIn : [https://www.linkedin.com/in/benjamin-bastide/]
-
+📫 Me contacter : bastide.benjamin31@gmail.com
 ---
 
 ## 🛠️ Technologies
 
-**Langages** : HTML · CSS · JavaScript · PHP · SQL · Java · Python  
 **Outils** : Git · GitHub · VS Code · MySQL · [Figma]  
 **Environnements** : Windows
 
-<!-- Version avec badges, si tu préfères :
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -23,15 +19,15 @@ J'aime construire des choses qui servent vraiment, du site web au plugin Minecra
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
--->
+
 
 ---
 
 ## 📚 En ce moment
 
 - 🎓 Je prépare mon BTS SIO
-- 🌱 J'apprends [ex : Java, C#]
-- 🔎 Je cherche [un stage] en [développement web]
+- 🌱 J'apprends ![Java](https://img.shields.io/badge/Java-ED8B00?logo=buymeacoffee&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white)
+- 🔎 Je cherche un stage en développement web
 
 ---
 
