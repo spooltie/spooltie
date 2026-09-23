@@ -1,11 +1,11 @@
-# Salut, moi c'est Benjamin 👋
+# Salut, moi c'est Benjamin · spooltie  👋
 
 Étudiant en **BTS SIO** [option SLAM / SISR], passionné par le développement web et les projets concrets.  
 J'aime construire des choses qui servent vraiment, du site web au plugin Minecraft.
 
 🌐 Mon site : [benjaminbastide.fr](https://benjaminbastide.fr)  
-📫 Me contacter : [ton.email@exemple.fr]  
-💼 LinkedIn : [lien vers ton profil]
+📫 Me contacter : [bastide.benjamin31@gmail.com] 
+💼 LinkedIn : [https://www.linkedin.com/in/benjamin-bastide/]
 
 ---
 
