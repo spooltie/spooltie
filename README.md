@@ -11,8 +11,6 @@
 ## 👋 À propos
 
 Étudiant en **BTS SIO** [option SLAM / SISR], passionné par le développement web et les projets concrets.  
-J'aime construire des choses qui servent vraiment, du site web au plugin Minecraft.
-
 ---
 
 ## 🛠️ Technologies
@@ -40,8 +38,7 @@ J'aime construire des choses qui servent vraiment, du site web au plugin Minecra
 <summary><b>🚀 Mes projets</b></summary>
 <br>
 
-- **BOB** : application réalisée en équipe, racontée par son robot mascotte
-- **Plugin UHC Loup-Garou** : plugin Minecraft en Java (Spigot)
+-- **[enDTstat](https://endtstat.fr.benjaminbastide.fr)** : site de stats de notre équipe CS2 enDT, saison par saison et joueur par joueur
 - **Portfolio** : mon site perso, [benjaminbastide.fr](https://benjaminbastide.fr)
 
 </details>
@@ -49,7 +46,6 @@ J'aime construire des choses qui servent vraiment, du site web au plugin Minecra
 ---
 
 ## 📊 Stats GitHub
-
 
 
 <p align="center">
