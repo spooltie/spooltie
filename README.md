@@ -12,8 +12,8 @@ J'aime construire des choses qui servent vraiment, du site web au plugin Minecra
 ## 🛠️ Technologies
 
 **Langages** : HTML · CSS · JavaScript · PHP · SQL · Java · Python  
-**Outils** : Git · GitHub · VS Code · MySQL · [Figma / Canva]  
-**Environnements** : Windows · Linux
+**Outils** : Git · GitHub · VS Code · MySQL · [Figma]  
+**Environnements** : Windows
 
 <!-- Version avec badges, si tu préfères :
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
@@ -27,22 +27,11 @@ J'aime construire des choses qui servent vraiment, du site web au plugin Minecra
 
 ---
 
-## 🚀 Projets
-
-| Projet | Description | Techno |
-|---|---|---|
-| **BOB** | Application réalisée en équipe, présentée par son robot mascotte | [techno] |
-| **Plugin UHC Loup-Garou** | Personnalisation d'un plugin Minecraft (Spigot 1.15) | Java, Maven |
-| **Portfolio** | Mon site perso pour présenter mon parcours et mes projets | [techno] |
-| **[Autre projet]** | [Courte description] | [techno] |
-
----
-
 ## 📚 En ce moment
 
 - 🎓 Je prépare mon BTS SIO
-- 🌱 J'apprends [ex : React, Symfony, Docker…]
-- 🔎 Je cherche [un stage / une alternance] en [développement web]
+- 🌱 J'apprends [ex : Java, C#]
+- 🔎 Je cherche [un stage] en [développement web]
 
 ---
 
