@@ -10,7 +10,7 @@
 
 ## 👋 À propos
 
-Étudiant en **BTS SIO** [option SLAM], passionné par le développement web et les projets concrets.  
+Étudiant en **BTS SIO SLAM**, passionné par le développement web et les projets concrets.  
 ---
 
 ## 🛠️ Technologies
